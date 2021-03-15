@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-05-10",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/imagesize-0.7.1-py3.5.egg-info/PKG-INFO",
+    "Lib/site-packages/imagesize-0.7.1-py3.5.egg-info/SOURCES.txt",
+    "Lib/site-packages/imagesize-0.7.1-py3.5.egg-info/dependency_links.txt",
+    "Lib/site-packages/imagesize-0.7.1-py3.5.egg-info/top_level.txt",
+    "Lib/site-packages/imagesize/__init__.py",
+    "Lib/site-packages/imagesize/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/imagesize/__pycache__/get.cpython-35.pyc",
+    "Lib/site-packages/imagesize/get.py"
+  ],
+  "fn": "imagesize-0.7.1-py35_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\imagesize-0.7.1-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "e7a69d4bd38f42995d63cedccb596b12",
+  "name": "imagesize",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 3485,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/imagesize-0.7.1-py35_0.tar.bz2",
+  "version": "0.7.1"
+}

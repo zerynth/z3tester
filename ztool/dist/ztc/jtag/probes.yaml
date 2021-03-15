@@ -1,0 +1,23 @@
+# ZTC supported probes
+#
+# Each probe has a shortname used in ZTC commands as the probe identifier;
+# for each probe, mandatory details are the "name" an the OpenOCD script;
+
+atmel_ice:
+    script: cmsis-dap.cfg
+    name: Atmel ICE
+atmel_edbg:
+    script: cmsis-dap.cfg
+    name: Atmel EDBG
+jlink:
+    script: jlink.cfg
+    name: SEGGER JLink
+stlink:
+    script: stlink.cfg
+    name: ST Link
+cmsis_dap:
+    script: cmsis-dap.cfg
+    name: CMSIS DAP
+kitprog2:
+    script: cmsis-dap.cfg
+    name: KitProg2 PSoC Programmer

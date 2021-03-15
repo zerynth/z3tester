@@ -1,0 +1,11 @@
+{
+  "title":"Data",
+  "copyright":"Zerynth Team",
+  "label":"zdm_cli_datas",
+  "text": "Manage the data of a single workspace.",
+  "tocdepth": 3,
+  "files":[
+      ["Data","cli/workspace/data/commands.py"],
+      ["Export","cli/workspace/data/export/commands.py"]
+  ]
+}

@@ -1,0 +1,49 @@
+==> 2016-11-16 10:11:14 <==
+# cmd: C:\Users\giacomo\Miniconda3\Scripts\conda-script.py create -n zerynth
+# create specs: []
+==> 2016-11-16 10:14:25 <==
+# cmd: C:\Users\giacomo\Miniconda3\Scripts\conda-script.py install click git pyserial pywin32 requests sqlite tornado whoosh -n zerynth
++click-6.6-py35_0
++git-2.9.3-0
++pip-9.0.1-py35_0
++pyserial-2.7-py35_0
++python-3.5.2-0
++pywin32-220-py35_1
++requests-2.12.0-py35_0
++setuptools-27.2.0-py35_1
++sqlite-3.13.0-vc14_1
++tornado-4.4.2-py35_0
++vs2015_runtime-14.0.25123-0
++wheel-0.29.0-py35_0
++whoosh-2.7.4-py35_0
+# install specs: ['click', 'git', 'pyserial', 'pywin32', 'requests', 'sqlite', 'tornado', 'whoosh']
+==> 2016-11-16 10:15:20 <==
+# cmd: C:\Users\giacomo\Miniconda3\Scripts\conda-script.py install sphinx pylint sphinx_rtd_theme -n zerynth
++alabaster-0.7.9-py35_0
++astroid-1.4.7-py35_0
++babel-2.3.4-py35_0
++colorama-0.3.7-py35_0
++docutils-0.12-py35_2
++imagesize-0.7.1-py35_0
++jinja2-2.8-py35_1
++lazy-object-proxy-1.2.1-py35_0
++markupsafe-0.23-py35_2
++pygments-2.1.3-py35_0
++pylint-1.5.4-py35_1
++pytz-2016.7-py35_0
++six-1.10.0-py35_0
++snowballstemmer-1.2.1-py35_0
++sphinx-1.4.8-py35_0
++sphinx_rtd_theme-0.1.9-py35_0
++wrapt-1.10.8-py35_0
+# install specs: ['sphinx', 'pylint', 'sphinx_rtd_theme', 'python 3.5* (target=python-3.5.2-0.tar.bz2)']
+==> 2016-11-16 10:15:37 <==
+# cmd: C:\Users\giacomo\Miniconda3\Scripts\conda-script.py install -c m-labs pygit2 -n zerynth
++cffi-1.8.3-py35_0
++m-labs::libgit2-0.24.1-7
++m-labs::libssh2-1.7.0.git-5
++m-labs::pygit2-0.24.0-py35_4
++openssl-1.0.2j-vc14_0
++pycparser-2.17-py35_0
++zlib-1.2.8-vc14_3
+# install specs: ['pygit2', 'python 3.5* (target=python-3.5.2-0.tar.bz2)']

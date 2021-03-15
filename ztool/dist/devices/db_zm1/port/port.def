@@ -1,0 +1,147 @@
+/* Port definition */
+
+////LAYOUT: 4zerobox_v9
+////PERIPHERALS: SERIAL0 SERIAL1 SERIAL2 ADC0 DAC0 DAC1 PWMD0 SPI0 I2C0 SD0 SD1 RTC0
+////CDEFINES: ESP32_VHAL ESP32_ETH_PHY_LAN8720 HAS_BUILTIN_MBEDTLS
+////EXTPINS: D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 
+
+const PinInfo const _vhalpinmap[] STORED = {
+    /* D0   */ MAKE_PIN(PA, 0,  HAS_EXT | HAS_ADC),           // XTAL1, ADC2
+    /* D1   */ MAKE_PIN(PA, 1,  HAS_EXT | HAS_SER),           // TX0
+    /* D2   */ MAKE_PIN(PA, 2,  HAS_EXT | HAS_SPI | HAS_ADC), // HSPI_MISO, ADC2
+    /* D3   */ MAKE_PIN(PA, 3,  HAS_EXT | HAS_SER),           // RX0
+    /* D4   */ MAKE_PIN(PA, 4,  HAS_EXT | HAS_ADC),           // POWER_ON BOARD
+    /* D5   */ MAKE_PIN(PA, 5,  HAS_EXT | HAS_SER),           // TX2
+    /* D6   */ MAKE_PIN(PA, 6,  HAS_EXT),                     // NOT USED
+    /* D7   */ MAKE_PIN(PA, 7,  HAS_EXT),                     // NOT USED
+    /* D8   */ MAKE_PIN(PA, 8,  HAS_EXT),                     // NOT USED
+    /* D9   */ MAKE_PIN(PA, 9,  HAS_EXT),                     // NOT USED
+    /* D10  */ MAKE_PIN(PA, 10, HAS_EXT | HAS_SER),           // TX1
+    /* D11  */ MAKE_PIN(PA, 11, HAS_EXT),                     // NOT USED
+    /* D12  */ MAKE_PIN(PA, 12, HAS_EXT | HAS_ADC),           // HSPI_CS1, ADC2
+    /* D13  */ MAKE_PIN(PA, 13, HAS_EXT | HAS_ADC),           // PWM PIN CLICK1, ADC2
+    /* D14  */ MAKE_PIN(PA, 14, HAS_EXT | HAS_SPI | HAS_ADC), // HSPI_CLK, ADC2
+    /* D15  */ MAKE_PIN(PA, 15, HAS_EXT | HAS_SPI | HAS_ADC), // HSPI_MOSI, ADC2
+    /* D16  */ MAKE_PIN(PA, 16, HAS_EXT | HAS_I2C),           // I2C_SDA
+    /* D17  */ MAKE_PIN(PA, 17, HAS_EXT | HAS_I2C),           // I2C_SCL
+    /* D18  */ MAKE_PIN(PA, 18, HAS_EXT),                     // MDIO
+    /* D19  */ MAKE_PIN(PA, 19, HAS_EXT),                     // EMAC_TXD0
+    /* D20  */ MAKE_PIN(PA, 20, HAS_EXT),                     // NOT USED 
+    /* D21  */ MAKE_PIN(PA, 21, HAS_EXT),                     // EMAC_TX_EN
+    /* D22  */ MAKE_PIN(PA, 22, HAS_EXT),                     // EMAC_TXD1
+    /* D23  */ MAKE_PIN(PA, 23, HAS_EXT),                     // MDC
+    /* D24  */ MAKE_PIN(PA, 24, HAS_EXT),                     // NOT USED
+    /* D25  */ MAKE_PIN(PA, 25, HAS_EXT | HAS_DAC | HAS_ADC), // EMAC_RXD0, DAC0, ADC2
+    /* D26  */ MAKE_PIN(PA, 26, HAS_EXT | HAS_DAC | HAS_ADC), // EMAC_RXD1, DAC1, ADC2
+    /* D27  */ MAKE_PIN(PA, 27, HAS_EXT | HAS_ADC),           // EMAC_RX_CRS_DV, ADC2
+    /* D28  */ MAKE_PIN(PA, 28, HAS_EXT ),                    // NOT USED
+    /* D29  */ MAKE_PIN(PA, 29, HAS_EXT ),                    // NOT USED
+    /* D30  */ MAKE_PIN(PA, 30, HAS_EXT ),                    // NOT USED
+    /* D31  */ MAKE_PIN(PA, 31, HAS_EXT ),                    // NOT USED
+    /* D32  */ MAKE_PIN(PA, 32, HAS_EXT | HAS_ADC),           // HSPI_CS0
+    /* D33  */ MAKE_PIN(PA, 33, HAS_EXT | HAS_ADC),           // HSPI_CS2
+    /* D34  */ MAKE_PIN(PA, 34, HAS_EXT | HAS_ADC),           // AN PIN CLICK1
+    /* D35  */ MAKE_PIN(PA, 35, HAS_EXT | HAS_ADC | HAS_SER), // RX1
+    /* D36  */ MAKE_PIN(PA, 36, HAS_EXT | HAS_ADC | HAS_SER), // RX2
+    /* D37  */ MAKE_PIN(PA, 37, HAS_EXT | HAS_ADC),           // NOT USED
+    /* D38  */ MAKE_PIN(PA, 38, HAS_EXT | HAS_ADC),           // NOT USED
+    /* D39  */ MAKE_PIN(PA, 39, HAS_EXT | HAS_ADC),           // INT PIN CLICK1
+};
+
+
+const PinClass const _analogclass[] STORED = {
+    /* A0 */ MAKE_PIN_CLASS(32, 4 , 0, 0),
+    /* A1 */ MAKE_PIN_CLASS(33, 5 , 0, 0),
+    /* A2 */ MAKE_PIN_CLASS(34, 6 , 0, 0),
+    /* A3 */ MAKE_PIN_CLASS(35, 7 , 0, 0),
+    /* A4 */ MAKE_PIN_CLASS(36, 0 , 0, 0),
+    /* A5 */ MAKE_PIN_CLASS(37, 1 , 0, 0), 
+    /* A6 */ MAKE_PIN_CLASS(38, 2 , 0, 0), 
+    /* A7 */ MAKE_PIN_CLASS(39, 3 , 0, 0), 
+    /* D25*/ MAKE_PIN_CLASS(25, 8 , 1, 0), 
+    /* D26*/ MAKE_PIN_CLASS(26, 9 , 1, 0), 
+    /* D27*/ MAKE_PIN_CLASS(27, 7 , 1, 0), 
+    /* D14*/ MAKE_PIN_CLASS(14, 6 , 1, 0), 
+    /* D12*/ MAKE_PIN_CLASS(12, 5 , 1, 0), 
+    /* D13*/ MAKE_PIN_CLASS(13, 4 , 1, 0), 
+    /* D4 */ MAKE_PIN_CLASS(4, 0 , 1, 0), 
+    /* D0 */ MAKE_PIN_CLASS(0, 1 , 1, 0), 
+    /* D2 */ MAKE_PIN_CLASS(2, 2 , 1, 0), 
+    /* D15*/ MAKE_PIN_CLASS(15, 3 , 1, 0), 
+};
+
+const PinClass const _spiclass[] STORED = {
+    /* MOSI0 */ MAKE_PIN_CLASS(15, 0, 0, 0),
+    /* MISO0 */ MAKE_PIN_CLASS(2, 0, 0, 0),
+    /* SCK0 */ MAKE_PIN_CLASS(14, 0, 0, 0),
+};
+
+const PinClass const _i2cclass[] STORED = {
+    /* SDA0 */ MAKE_PIN_CLASS(16, 0, 0, 0),
+    /* SCL0 */ MAKE_PIN_CLASS(17, 0, 0, 0),
+};
+
+const PinClass const _pwmclass[] STORED = {
+    /* PWM0 */ MAKE_PIN_CLASS(0,0,0,0),
+    /* PWM1 */ MAKE_PIN_CLASS(1,0,0,0),
+    /* PWM2 */ MAKE_PIN_CLASS(2,0,0,0),
+    /* PWM3 */ MAKE_PIN_CLASS(3,0,0,0),
+    /* PWM4 */ MAKE_PIN_CLASS(4,0,0,0),
+    /* PWM5 */ MAKE_PIN_CLASS(5,0,0,0),
+    /* PWM6 */ MAKE_PIN_CLASS(6,0,0,0),
+    /* PWM7 */ MAKE_PIN_CLASS(7,0,0,0),
+    /* PWM8 */ MAKE_PIN_CLASS(8,0,0,0),
+    /* PWM9 */ MAKE_PIN_CLASS(9,0,0,0),
+    /* PWM10 */ MAKE_PIN_CLASS(10,0,0,0),
+    /* PWM11 */ MAKE_PIN_CLASS(11,0,0,0),
+    /* PWM12 */ MAKE_PIN_CLASS(12,0,0,0),
+    /* PWM13 */ MAKE_PIN_CLASS(13,0,0,0),
+    /* PWM14 */ MAKE_PIN_CLASS(14,0,0,0),
+    /* PWM15 */ MAKE_PIN_CLASS(15,0,0,0),
+    /* PWM16 */ MAKE_PIN_CLASS(16,0,0,0),
+    /* PWM17 */ MAKE_PIN_CLASS(17,0,0,0),
+    /* PWM18 */ MAKE_PIN_CLASS(18,0,0,0),
+    /* PWM19 */ MAKE_PIN_CLASS(19,0,0,0),
+    /* PWM20 */ MAKE_PIN_CLASS(20,0,0,0),
+    /* PWM21 */ MAKE_PIN_CLASS(21,0,0,0),
+    /* PWM22 */ MAKE_PIN_CLASS(22,0,0,0),
+    /* PWM23 */ MAKE_PIN_CLASS(23,0,0,0),
+    /* PWM24 */ MAKE_PIN_CLASS(24,0,0,0),
+    /* PWM25 */ MAKE_PIN_CLASS(25,0,0,0),
+    /* PWM26 */ MAKE_PIN_CLASS(26,0,0,0),
+    /* PWM27 */ MAKE_PIN_CLASS(27,0,0,0),
+    /* PWM28 */ MAKE_PIN_CLASS(28,0,0,0),
+    /* PWM29 */ MAKE_PIN_CLASS(29,0,0,0),
+    /* PWM30 */ MAKE_PIN_CLASS(30,0,0,0),
+    /* PWM31 */ MAKE_PIN_CLASS(31,0,0,0),
+    /* PWM32 */ MAKE_PIN_CLASS(32,0,0,0),
+    /* PWM33 */ MAKE_PIN_CLASS(33,0,0,0),
+};
+
+const PinClass const _icuclass[] STORED = {
+};
+
+const PinClass const _canclass[] STORED = {
+};
+
+const PinClass const _serclass[] STORED = {
+    /* RX0 */ MAKE_PIN_CLASS(3, 0, 0, 0),
+    /* TX0 */ MAKE_PIN_CLASS(1, 0, 0, 0),
+    /* RX1 */ MAKE_PIN_CLASS(35, 0, 0, 0),
+    /* TX1 */ MAKE_PIN_CLASS(10, 0, 0, 0),
+    /* RX2 */ MAKE_PIN_CLASS(36, 0, 0, 0),
+    /* TX2 */ MAKE_PIN_CLASS(5, 0, 0, 0),
+};
+
+const PinClass const _dacclass[] STORED = {
+    /*DAC0*/ MAKE_PIN_CLASS(25, 1, 0, 0),
+    /*DAC1*/ MAKE_PIN_CLASS(26, 2, 0, 0),
+
+};
+
+const PinClass const _ledclass[] STORED = {
+};
+
+const PinClass const _btnclass[] STORED = {
+};
+

@@ -1,0 +1,9 @@
+{
+	"title":"Compiler, Uplinker and Linter",
+	"text":"In this section are described the Zerynth Compiler, the Zerynth Uplinker and the Zerynth Linter. All components are described with a brief introduction and with the related command syntaxes including arguments and option informations.",
+	"files":[
+		["Compiler","compiler/compilercmd.py"],
+		["Uplinker","uplinker/uplinker.py"],
+		["Linter", "linter/lintercmd.py"]
+	]
+}

@@ -1,0 +1,32 @@
+{
+    "dependencies": {},
+    "description": "",
+    "dont-pack": 1,
+    "fullname": "sys.zerynth.runtime-windows64",
+    "git_pointer": "zerynth://zerynth-sys/sys-runtime-windows64",
+    "keywords": [],
+    "platform": "windows64",
+    "repo": "official",
+    "sys": [
+        [
+            "python",
+            "python.exe"
+        ],
+        [
+            "linter",
+            "Scripts/pylint.exe"
+        ],
+        [
+            "sphinx",
+            "Scripts/sphinx-build.exe"
+        ],
+        [
+            "git",
+            "Library/bin/git.exe"
+        ]
+    ],
+    "targetdir": "newpython",
+    "title": "Zerynth Runtime for Windows 64",
+    "version": "r2.1.2",
+    "whatsnew": ""
+}

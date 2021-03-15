@@ -1,0 +1,13 @@
+{
+
+  "title":"Workspace",
+  "copyright":"Zerynth Team",
+  "label":"zdm_cli_workspace",
+  "text": "A workspace represents a project containing fleets of devices.",
+  "tocdepth": 3,
+  "files":[
+      ["Workspace","cli/workspace/commands.py"],
+      ["Data Export","zdm_cli_data_export.json"],
+      ["Condition","cli/workspace/conditions/commands.py"]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+
+  "title":"ZDM CLI",
+  "copyright":"Zerynth Team",
+  "label":"zdm_cli",
+  "text": "ZDM Command Line Interface (CLI) allows managing the ZDM via command line. The ZDM CLI directly interface with the ZDM API allowing the creation of scripts that goes beyond the simplified ZDM web user interface.",
+  "tocdepth":3,
+  "files":[
+      ["Autentication","cli/auth/commands.py"],
+      ["Workspace","zdm_cli_workspace.json"],
+      ["Fleet","cli/fleet/commands.py"],
+      ["Device","cli/device/commands.py"],
+      ["Gates","zdm_cli_gates.json"],
+      ["Jobs","cli/job/commands.py"]
+  ]
+}

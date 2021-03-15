@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2015-10-31",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/pyserial-2.7-py3.5.egg-info",
+    "Lib/site-packages/serial/__init__.py",
+    "Lib/site-packages/serial/rfc2217.py",
+    "Lib/site-packages/serial/serialcli.py",
+    "Lib/site-packages/serial/serialjava.py",
+    "Lib/site-packages/serial/serialposix.py",
+    "Lib/site-packages/serial/serialutil.py",
+    "Lib/site-packages/serial/serialwin32.py",
+    "Lib/site-packages/serial/sermsdos.py",
+    "Lib/site-packages/serial/tools/__init__.py",
+    "Lib/site-packages/serial/tools/list_ports.py",
+    "Lib/site-packages/serial/tools/list_ports_linux.py",
+    "Lib/site-packages/serial/tools/list_ports_osx.py",
+    "Lib/site-packages/serial/tools/list_ports_posix.py",
+    "Lib/site-packages/serial/tools/list_ports_windows.py",
+    "Lib/site-packages/serial/tools/miniterm.py",
+    "Lib/site-packages/serial/urlhandler/__init__.py",
+    "Lib/site-packages/serial/urlhandler/protocol_hwgrep.py",
+    "Lib/site-packages/serial/urlhandler/protocol_loop.py",
+    "Lib/site-packages/serial/urlhandler/protocol_rfc2217.py",
+    "Lib/site-packages/serial/urlhandler/protocol_socket.py",
+    "Lib/site-packages/serial/win32.py",
+    "Scripts/miniterm.py"
+  ],
+  "fn": "pyserial-2.7-py35_0.tar.bz2",
+  "license": "PSF",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\pyserial-2.7-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "a18d5257745e24f8df111f2fc75180e8",
+  "name": "pyserial",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 45943,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/pyserial-2.7-py35_0.tar.bz2",
+  "version": "2.7"
+}

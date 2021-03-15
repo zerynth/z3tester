@@ -1,0 +1,106 @@
+[10140:10140:0320/105119.937650:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:10165) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[10115:10115:0320/180831.459458:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[10140:10140:0320/180831.589854:ERROR:x11_util.cc(109)] X IO error received (X server probably went away)
+[9298:9298:0324/094009.977685:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:9323) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[7944:7944:0324/150706.375075:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:7964) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[20625:20625:0325/114136.044333:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:20649) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[1622:1622:0325/163806.190033:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:1662) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[1869:1869:0325/163830.148416:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:1890) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[27918:27918:0330/125747.620422:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:27944) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[27893:27893:0330/172753.215970:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[27918:27918:0330/172753.366686:ERROR:x11_util.cc(109)] X IO error received (X server probably went away)
+[27893:27923:0330/172753.366694:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+#0 0x7fb7f3593c69 <unknown>
+Task trace:
+#0 0x7fb7f403e004 <unknown>
+#1 0x7fb7f35944b5 <unknown>
+
+[7000:7000:0331/091249.693212:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:7023) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[7293:7293:0331/091446.693978:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:7313) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[15102:15102:0410/183045.980813:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:15127) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[15944:15944:0410/183635.477260:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:15967) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[17675:17675:0417/111702.920585:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:17700) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[493:493:0417/152104.595464:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:524) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[454:454:0417/194101.880766:ERROR:chrome_browser_main_extra_parts_x11.cc(62)] X IO error received (X server probably went away)
+[493:493:0417/194102.127005:ERROR:x11_util.cc(109)] X IO error received (X server probably went away)
+[454:499:0417/194102.141266:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+#0 0x7f3a93527c69 <unknown>
+Task trace:
+#0 0x7f3a93fd2004 <unknown>
+#1 0x7f3a935284b5 <unknown>
+
+[13889:13889:0420/105705.810676:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:13914) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[18276:18276:0420/173434.696068:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:18302) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[18276:18276:0420/175635.504452:ERROR:x11_util.cc(109)] X IO error received (X server probably went away)
+[5635:5635:0421/091308.255515:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:5660) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[5405:5405:0422/090908.746867:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:5430) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 09:11:18.923: GtkDialog mapped without a transient parent. This is discouraged.
+[12522:12522:0424/103527.198229:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:12547) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[12742:12742:0424/103543.758703:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:12761) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[24308:24308:0424/152357.724325:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:24326) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[26322:26322:0424/153606.403912:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:26342) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[6791:6791:0427/085001.756208:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:6816) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 08:52:36.742: GtkDialog mapped without a transient parent. This is discouraged.
+[12673:12673:0427/093445.111621:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:12698) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 09:34:51.049: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 09:35:29.921: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 09:35:39.866: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 09:40:49.778: GtkDialog mapped without a transient parent. This is discouraged.
+[24877:24877:0427/105359.808522:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:24896) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[28790:28790:0427/114737.762874:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:28812) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 12:20:21.129: GtkDialog mapped without a transient parent. This is discouraged.
+[5169:5169:0427/174308.656143:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:5194) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[5131:5174:0427/184750.766577:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+#0 0x7f6ef9367c69 <unknown>
+Task trace:
+#0 0x7f6ef9e12004 <unknown>
+#1 0x7f6ef93684b5 <unknown>
+
+[5169:5169:0427/184751.033308:ERROR:x11_util.cc(109)] X IO error received (X server probably went away)
+[4751:4751:0428/074420.141141:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:4774) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[9549:9549:0428/081322.997350:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:9574) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 09:48:22.869: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 10:11:59.114: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 10:49:28.280: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 11:01:45.156: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 11:07:47.917: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 11:12:37.616: GtkDialog mapped without a transient parent. This is discouraged.
+[28290:28290:0429/121747.036957:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:28314) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[32389:32389:0429/125857.934503:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:32412) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[14479:14479:0429/143100.470764:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:14498) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[14830:14830:0429/143201.844839:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:14849) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+[15224:15224:0429/143351.661063:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+(node:15243) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Gtk-Message: 14:34:10.243: GtkDialog mapped without a transient parent. This is discouraged.

@@ -1,0 +1,159 @@
+[
+    {
+        "description": "SRF01 Ultrasonic range finder library",
+        "fullname": "lib.andreabau.srf01",
+        "keywords": [
+            "sensor",
+            "ultrasonic range"
+        ],
+        "title": "srf01",
+        "url": "github://andreabau/srf01",
+        "versions": [
+            "r1.0.0"
+        ],
+        "vinfo": {
+            "r1.0.0": {
+                "changelog": "first release",
+                "date": "2018-01-16T21:15:12Z",
+                "file": "https://api.github.com/repos/andreabau/srf01/tarball/r1.0.0"
+            }
+        }
+    },
+    {
+        "description": "This module contains the driver for APDS-9960, It's  features are Gesture detection,  Proximity  detection,  Digital  Ambient  Light  Sense (ALS) and Color Sense (RGBC).\n\nThe APDS-9960 is a serious little piece of hardware with built in UV and IR blocking filters, four separate diodes sensitive to different directions, and an I2C compatible interface.",
+        "fullname": "lib.rgarofalo.apds9960",
+        "keywords": [
+            "APDS9960",
+            "Proximity",
+            "Digital  Ambient  Light",
+            "Color Sense",
+            "Gesture recognition"
+        ],
+        "title": "apds9960",
+        "url": "github://rgarofalo/apds9960",
+        "versions": [
+            "r1.0.3"
+        ],
+        "vinfo": {
+            "r1.0.3": {
+                "changelog": "first commit",
+                "date": "2018-05-04T09:02:22Z",
+                "file": "https://api.github.com/repos/rgarofalo/apds9960/tarball/r1.0.3"
+            }
+        }
+    },
+    {
+        "description": "Zerynth library for I2C Vishay VCNL4020 IR proximity sensor",
+        "fullname": "lib.chrisstubbs93.lib-vishay-vcnl4020",
+        "keywords": [
+            "VCNL4020"
+        ],
+        "title": "Zerynth Vishay VCNL4020",
+        "url": "github://chrisstubbs93/lib-vishay-vcnl4020",
+        "versions": [
+            "r0.0.1"
+        ],
+        "vinfo": {
+            "r0.0.1": {
+                "changelog": "First commit. 100% not going to work.",
+                "date": "2018-12-09T16:45:14Z",
+                "file": "https://api.github.com/repos/chrisstubbs93/lib-vishay-vcnl4020/tarball/r0.0.1"
+            }
+        }
+    },
+    {
+        "description": "Zerynth I2C library for the Vishay VCNL4020 Fully Integrated Proximity and Ambient Light Sensor With Infrared Emitter",
+        "fullname": "lib.chrisstubbs93.lib_vishay_vcnl4020",
+        "keywords": [
+            "VCNL4020"
+        ],
+        "title": "Vishay VCNL4020 for Zerynth",
+        "url": "github://chrisstubbs93/lib_vishay_vcnl4020",
+        "versions": [
+            "r0.0.1"
+        ],
+        "vinfo": {
+            "r0.0.1": {
+                "changelog": "First commit. 100% not going to work.",
+                "date": "2018-12-09T16:45:14Z",
+                "file": "https://api.github.com/repos/chrisstubbs93/lib_vishay_vcnl4020/tarball/r0.0.1"
+            }
+        }
+    },
+    {
+        "description": "1",
+        "fullname": "lib.jwdarif19.vue2-es6-for-existing-project",
+        "keywords": [
+            "1"
+        ],
+        "title": "1",
+        "url": "github://jwdarif19/vue2-es6-for-existing-project",
+        "versions": [
+            "1"
+        ],
+        "vinfo": {
+            "1": {
+                "changelog": "1",
+                "date": "2019-05-19T22:28:31Z",
+                "file": "https://api.github.com/repos/jwdarif19/vue2-es6-for-existing-project/tarball/1"
+            }
+        }
+    },
+    {
+        "description": "First test for validating card",
+        "fullname": "lib.bisnouk.esp32",
+        "keywords": [
+            "test"
+        ],
+        "title": "First Test",
+        "url": "github://bisnouk/esp32",
+        "versions": [
+            "r1.0"
+        ],
+        "vinfo": {
+            "r1.0": {
+                "changelog": "none",
+                "date": "2019-10-17T12:33:21Z",
+                "file": "https://api.github.com/repos/bisnouk/esp32/tarball/r1.0"
+            }
+        }
+    },
+    {
+        "description": "Ejemplo Web Server",
+        "fullname": "lib.achainya.texto1",
+        "keywords": [
+            "MiniWeb"
+        ],
+        "title": "MiniWeb Server Zerynth",
+        "url": "github://achainya/texto1",
+        "versions": [
+            "r1.0.0"
+        ],
+        "vinfo": {
+            "r1.0.0": {
+                "changelog": "Ejemplo de MiniWebServer",
+                "date": "2019-11-13T14:50:35Z",
+                "file": "https://api.github.com/repos/achainya/texto1/tarball/r1.0.0"
+            }
+        }
+    },
+    {
+        "description": "z1",
+        "fullname": "lib.alsor62.iot",
+        "keywords": [
+            "z1"
+        ],
+        "title": "zenuth",
+        "url": "github://alsor62/iot",
+        "versions": [
+            "1"
+        ],
+        "vinfo": {
+            "1": {
+                "changelog": "z1",
+                "date": "2020-02-19T12:05:20Z",
+                "file": "https://api.github.com/repos/alsor62/iot/tarball/1"
+            }
+        }
+    }
+]

@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: pytest-click
+Version: 0.1
+Summary: Py.test plugin for Click
+Home-page: https://github.com/Stranger6667/pytest-click
+Author: Dmitry Dygalo
+Author-email: dadygalo@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: Implementation :: Jython
+Classifier: Topic :: Software Development :: Testing
+Requires-Dist: click (>=6.0)
+Requires-Dist: pytest (>=2.8.5)
+
+UNKNOWN
+
+

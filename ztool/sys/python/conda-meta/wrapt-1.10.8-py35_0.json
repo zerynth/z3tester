@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-09-29",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/wrapt-1.10.8-py3.5.egg-info",
+    "Lib/site-packages/wrapt/__init__.py",
+    "Lib/site-packages/wrapt/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/wrapt/__pycache__/arguments.cpython-35.pyc",
+    "Lib/site-packages/wrapt/__pycache__/decorators.cpython-35.pyc",
+    "Lib/site-packages/wrapt/__pycache__/importer.cpython-35.pyc",
+    "Lib/site-packages/wrapt/__pycache__/wrappers.cpython-35.pyc",
+    "Lib/site-packages/wrapt/_wrappers.cp35-win_amd64.pyd",
+    "Lib/site-packages/wrapt/arguments.py",
+    "Lib/site-packages/wrapt/decorators.py",
+    "Lib/site-packages/wrapt/importer.py",
+    "Lib/site-packages/wrapt/wrappers.py"
+  ],
+  "fn": "wrapt-1.10.8-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\wrapt-1.10.8-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "410a0b8edda2d0d8fa0ad2b6cdd3a9d5",
+  "name": "wrapt",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 40313,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/wrapt-1.10.8-py35_0.tar.bz2",
+  "version": "1.10.8"
+}

@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2015-10-28",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/six-1.10.0-py3.5.egg-info",
+    "Lib/site-packages/six.py"
+  ],
+  "fn": "six-1.10.0-py35_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\six-1.10.0-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "a0c212401c5b6975ba1b8c811f4ba631",
+  "name": "six",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 8180,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/six-1.10.0-py35_0.tar.bz2",
+  "version": "1.10.0"
+}

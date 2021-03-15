@@ -1,0 +1,17 @@
+---
+config: {}
+specs:
+    disk: null
+    port: /dev/ttyUSB0
+    probe: null
+target: 4zerobox_v9
+vm:
+    dev_uid: Cu8V2Vd-S6ePIvZzDdI1Ww
+    features:
+    - ota
+    - securefw
+    name: 4ZeroBox Z3 r21.01.19
+    rtos: esp32-rtos
+    uid: RJ9M3e-kRzCzIXSrBzPCzw
+    version: r21.01.19
+...

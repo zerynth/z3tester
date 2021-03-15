@@ -1,0 +1,9 @@
+{
+	"version":"2.6.0",
+	"title":"Zerynth Device Manager",
+	"copyright":"Zerynth Team",
+	"files":[
+			["ZDM CLI","zdm_cli.json"],
+			["ZDM Client Py","docs_zdm_device_zdmclient.rst"]
+	]
+}

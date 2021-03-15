@@ -1,0 +1,24 @@
+{
+    "dependencies": {},
+    "description": "",
+    "dont-pack": 1,
+    "fullname": "sys.zerynth.esptool-linux64",
+    "git_pointer": "zerynth://zerynth-sys/sys-esptool-linux64",
+    "keywords": [],
+    "platform": "linux64",
+    "repo": "official",
+    "sys": [
+        [
+            "esptool",
+            "esptool.py"
+        ],
+        [
+            "esptool32",
+            "esp32/esptool.py"
+        ]
+    ],
+    "targetdir": "esptool",
+    "title": "ESPTool",
+    "version": "r2.0.10",
+    "whatsnew": ""
+}

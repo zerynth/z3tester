@@ -1,0 +1,41 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-03-24",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/colorama-0.3.7-py3.5.egg-info",
+    "Lib/site-packages/colorama/__init__.py",
+    "Lib/site-packages/colorama/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansi.cpython-35.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-35.pyc",
+    "Lib/site-packages/colorama/__pycache__/initialise.cpython-35.pyc",
+    "Lib/site-packages/colorama/__pycache__/win32.cpython-35.pyc",
+    "Lib/site-packages/colorama/__pycache__/winterm.cpython-35.pyc",
+    "Lib/site-packages/colorama/ansi.py",
+    "Lib/site-packages/colorama/ansitowin32.py",
+    "Lib/site-packages/colorama/initialise.py",
+    "Lib/site-packages/colorama/win32.py",
+    "Lib/site-packages/colorama/winterm.py"
+  ],
+  "fn": "colorama-0.3.7-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\colorama-0.3.7-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "5cf47fe0c584c28b3dbaab91500cc5bd",
+  "name": "colorama",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 19906,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/colorama-0.3.7-py35_0.tar.bz2",
+  "version": "0.3.7"
+}

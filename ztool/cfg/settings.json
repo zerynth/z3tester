@@ -1,0 +1,26 @@
+{
+  "env": {
+    "workspaces": [
+      "/home/matteo",
+      "/home/matteo/sss",
+      "/home/matteo/webinar_unisa",
+      "/home/matteo/GIT/zcontracts/contract-Nurset"
+    ],
+    "recent_projects": [
+      "/home/matteo/GIT/zcontracts/contract-Nurset/DEF",
+      "/home/matteo/DisplayZerynthLogo",
+      "/home/matteo/blinking_image",
+      "/home/matteo/fading_image",
+      "/home/matteo/writing_on_bw_oled2",
+      "/home/matteo/webinar_unisa/4_Simple_ZDM",
+      "/home/matteo/webinar_unisa/6_Advanced_FOTA_update",
+      "/home/matteo/webinar_unisa/5_ZDM_Jobs",
+      "/home/matteo/webinar_unisa/2_aws_bme280",
+      "/home/matteo/webinar_unisa/1_i2c_bme280"
+    ]
+  },
+  "editor_theme": "blackboard",
+  "editor_font_size": 12,
+  "device_mode": "auto",
+  "last_saved": 1588163715564
+}

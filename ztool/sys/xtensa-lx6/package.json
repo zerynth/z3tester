@@ -1,0 +1,21 @@
+{
+    "dependencies": {},
+    "description": "",
+    "dont-pack": 1,
+    "fullname": "sys.zerynth.xtensalx6-windows64",
+    "git_pointer": "zerynth://zerynth-sys/sys-xtensalx6-windows64",
+    "keywords": [],
+    "platform": "windows64",
+    "repo": "official",
+    "sys": {
+        "gcc": "bin/xtensa-esp32-elf-gcc.exe",
+        "ld": "bin/xtensa-esp32-elf-ld.exe",
+        "objdump": "bin/xtensa-esp32-elf-objdump.exe",
+        "readelf": "bin/xtensa-esp32-elf-readelf.exe"
+    },
+    "targetdir": "xtensa-lx6",
+    "title": "GCC XTensa LX6 Toolchain for Windows 64",
+    "tool": "xtensalx6gcc",
+    "version": "r2.0.10",
+    "whatsnew": "First"
+}

@@ -1,0 +1,20 @@
+{
+	"version":"1.0.0",
+	"title":"Zerynth Toolchain",
+	"copyright":"Zerynth Team",
+	"files":[
+		["Zerynth Toolchain","ztc.py"],
+		["Users","user/usercmd.py"],
+		["Projetcs","projects/projectcmd.py"],
+		["Devices","devices/devcmd.py"],
+		["Compiler","compiler/compilercmd.py"],
+		["Uplinker","uplinker/uplinker.py"],
+		["Device Configuration","uplinker/massprog.py"],
+		["Virtual Machines","virtualmachines/vmcmd.py"],
+		["Packages","packages/packagecmd.py"],
+		["Connected Devices","things/thingcmd.py"],
+		["AWS","aws/awscmd.py"],
+		["Miscellanea","misc/misccmd.py"],
+        	["Provisioning","provisioning/provisioningcmd.py"]
+	]
+}

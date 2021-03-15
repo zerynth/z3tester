@@ -1,0 +1,13 @@
+{
+
+  "title":"Gates",
+  "copyright":"Zerynth Team",
+  "label":"zdm_cli_gates",
+  "text": "Using the ZDM you’re able to send out your device’s data through gates.\nYou can activate a webhook to receive all the data sent on a specific tag in a workspace or\nYou can create an export gate to receive periodically a link to download them.\nYou can create an alarm gate to be notified on conditions opened by devices.\nZDM allows you also to visualize data on Ubidots through a Webhook.",
+  "tocdepth": 3,
+  "files":[
+      ["Export","cli/gates/dump/commands.py"],
+      ["Webhook","cli/gates/webhooks/commands.py"],
+      ["Alarm","cli/gates/alarm/commands.py"]
+  ]
+}

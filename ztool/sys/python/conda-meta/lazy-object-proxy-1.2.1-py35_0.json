@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "build": "py35_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/win-64",
+  "date": "2016-01-19",
+  "depends": [
+    "python 3.5*"
+  ],
+  "files": [
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/PKG-INFO",
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/SOURCES.txt",
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/dependency_links.txt",
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/native_libs.txt",
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/not-zip-safe",
+    "Lib/site-packages/lazy_object_proxy-1.2.1-py3.5-win-amd64.egg-info/top_level.txt",
+    "Lib/site-packages/lazy_object_proxy/__init__.py",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/cext.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/compat.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/simple.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/slots.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/utils.cpython-35.pyc",
+    "Lib/site-packages/lazy_object_proxy/cext.c",
+    "Lib/site-packages/lazy_object_proxy/cext.cp35-win_amd64.pyd",
+    "Lib/site-packages/lazy_object_proxy/cext.py",
+    "Lib/site-packages/lazy_object_proxy/compat.py",
+    "Lib/site-packages/lazy_object_proxy/simple.py",
+    "Lib/site-packages/lazy_object_proxy/slots.py",
+    "Lib/site-packages/lazy_object_proxy/utils.py"
+  ],
+  "fn": "lazy-object-proxy-1.2.1-py35_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\giacomo\\Miniconda3\\pkgs\\lazy-object-proxy-1.2.1-py35_0",
+    "type": "hard-link"
+  },
+  "md5": "74b5df3917946ecd4d0c31f1c60bb201",
+  "name": "lazy-object-proxy",
+  "platform": "win",
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 28031,
+  "subdir": "win-64",
+  "url": "https://repo.continuum.io/pkgs/free/win-64/lazy-object-proxy-1.2.1-py35_0.tar.bz2",
+  "version": "1.2.1"
+}

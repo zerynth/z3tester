@@ -1,0 +1,51 @@
+# This file contains advanced configuration options for a Zerynth project
+# 
+# Under the section "config" a list of options can be specified and activated;
+# such options change the way Python and C modules are compiled.
+# A detailed guide can be found here: 
+#
+#
+#
+
+config:
+    # fourzerobox defines
+    # enable ethernet connection
+    NETWORK_ETH: true
+    # enable wifi connection
+    NETWORK_WIFI: null
+    # enable 010/420 ADC channel
+    ADC_010_420: null
+    # enable 010/420 ADC channel
+    ADC_RESISTIVE: null
+    # enable 010/420 ADC channel
+    ADC_CURRENT: null
+    # enable SD Card
+    SDCARD_ENABLED: null
+    # enable can peripheral
+    CAN_ENABLED: null
+    # enable RS485 peripheral
+    # to set serial 485 baud rate modify the define fourzerobox.BAUD_485 before create a FourZeroBox obj
+    RS485_ENABLED: null
+    # enable RS232 peripheral
+    # to set serial 232 baud rate modify the define fourzerobox.BAUD_232 before create a FourZeroBox obj
+    RS232_ENABLED: null
+    # fourzeroplatform defines
+    # enable HW crypto
+    ZERYNTH_HWCRYPTO_ATECCx08A: true
+    # enable stored certificate
+    CERT_STORED: true
+    # enable provate key and certificate from resources
+    CERT_SOURCE: null
+    # enable DEBUG for fourzerobox
+    DEBUG_FZB: null
+    # enable DEBUG for fourzeromanager
+    DEBUG_FZM: null
+    # enable DEBUG for fourzerobox and fourzeromanager exceptions
+    DEBUG_EXEC: true
+    # enable lwmqtt zerynth module
+    AWSCLOUD_LWMQTT: true
+    # enable software reset for mqtt reconnection error (works only if lwmqtt module is enabled)
+    RESET_ON_MQTT_RECONNECTION_ERROR: null
+
+
+
