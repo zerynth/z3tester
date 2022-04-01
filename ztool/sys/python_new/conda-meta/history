@@ -1,0 +1,74 @@
+==> 2020-10-28 20:21:41 <==
+# cmd: C:\Users\giacomo\miniconda33\Scripts\conda-script.py create -n py3k python=3.8
+# conda version: 4.8.3
++defaults/noarch::wheel-0.35.1-py_0
++defaults/win-64::ca-certificates-2020.10.14-0
++defaults/win-64::certifi-2020.6.20-py38haa95532_2
++defaults/win-64::openssl-1.1.1h-he774522_0
++defaults/win-64::pip-20.2.4-py38_0
++defaults/win-64::python-3.8.5-h5fd99cc_1
++defaults/win-64::setuptools-50.3.0-py38h9490d1a_1
++defaults/win-64::sqlite-3.33.0-h2a8f88b_0
++defaults/win-64::vc-14.1-h0510ff6_4
++defaults/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_3
++defaults/win-64::wincertstore-0.2-py38_0
++defaults/win-64::zlib-1.2.11-h62dcd97_4
+# update specs: ['python=3.8']
+==> 2020-10-28 20:31:07 <==
+# cmd: C:\Users\giacomo\miniconda33\Scripts\conda-script.py install --name py3k --file z:\git\Zerynth3\sys\runtime-linux\requirements.txt
+# conda version: 4.8.3
++defaults/noarch::asn1crypto-1.4.0-py_0
++defaults/noarch::click-7.1.2-py_0
++defaults/noarch::colorama-0.4.4-py_0
++defaults/noarch::idna-2.10-py_0
++defaults/noarch::isort-5.6.4-py_0
++defaults/noarch::pycparser-2.20-py_2
++defaults/noarch::pyopenssl-19.1.0-py_1
++defaults/noarch::pyserial-3.4-py_2
++defaults/noarch::requests-2.24.0-py_0
++defaults/noarch::six-1.15.0-py_0
++defaults/noarch::toml-0.10.1-py_0
++defaults/noarch::urllib3-1.25.11-py_0
++defaults/win-64::astroid-2.4.2-py38_0
++defaults/win-64::brotlipy-0.7.0-py38he774522_1000
++defaults/win-64::cffi-1.14.3-py38h7a1dbc1_0
++defaults/win-64::chardet-3.0.4-py38_1003
++defaults/win-64::cryptography-3.1.1-py38h7a1dbc1_0
++defaults/win-64::lazy-object-proxy-1.4.3-py38he774522_0
++defaults/win-64::mccabe-0.6.1-py38_1
++defaults/win-64::pylint-2.6.0-py38_0
++defaults/win-64::pysocks-1.7.1-py38_0
++defaults/win-64::win_inet_pton-1.1.0-py38_0
++defaults/win-64::wrapt-1.11.2-py38he774522_0
+# update specs: ['pyserial', 'click', 'asn1crypto', 'requests', 'pylint']
+==> 2020-10-30 11:25:49 <==
+# cmd: C:\Users\giacomo\miniconda33\Scripts\conda-script.py install --name py3k --file z:\git\Zerynth3\sys\runtime-linux\requirements.txt
+# conda version: 4.8.3
++defaults/noarch::atomicwrites-1.4.0-py_0
++defaults/noarch::attrs-20.2.0-py_0
++defaults/noarch::iniconfig-1.1.1-py_0
++defaults/noarch::more-itertools-8.5.0-py_0
++defaults/noarch::packaging-20.4-py_0
++defaults/noarch::py-1.9.0-py_0
++defaults/noarch::pyparsing-2.4.7-py_0
++defaults/noarch::pytest-cov-2.10.1-py_0
++defaults/noarch::pytest-mock-3.3.1-py_0
++defaults/noarch::pytest-timeout-1.4.2-py_0
++defaults/win-64::coverage-5.3-py38he774522_0
++defaults/win-64::pluggy-0.13.1-py38_0
++defaults/win-64::pytest-6.1.0-py38_0
+# update specs: ['click', 'asn1crypto', 'requests==2.24.0', 'pytest==6.1.0', 'pylint', 'pytest-cov==2.10.1', 'pyserial', 'pytest-mock==3.3.1', 'pytest-timeout==1.4.2']
+==> 2020-10-30 11:31:00 <==
+# cmd: C:\Users\giacomo\miniconda33\Scripts\conda-script.py install --name py3k --file z:\git\Zerynth3\sys\runtime-linux\requirements.txt
+# conda version: 4.8.3
++defaults/win-64::pyyaml-5.3.1-py38he774522_1
++defaults/win-64::tabulate-0.8.7-py38_0
++defaults/win-64::yaml-0.2.5-he774522_0
+# update specs: ['pylint', 'pytest-cov==2.10.1', 'pyyaml==5.3.1', 'pyserial', 'click', 'asn1crypto', 'tabulate==0.8.7', 'requests==2.24.0', 'pytest-timeout==1.4.2', 'pytest-mock==3.3.1', 'pytest==6.1.0']
+==> 2020-11-10 10:10:25 <==
+# cmd: C:\Users\giacomo\miniconda33\Scripts\conda-script.py install -n py3k pywin32
+# conda version: 4.8.3
+-defaults/win-64::certifi-2020.6.20-py38haa95532_2
++defaults/noarch::certifi-2020.6.20-pyhd3eb1b0_3
++defaults/win-64::pywin32-227-py38he774522_1
+# update specs: ['pywin32']

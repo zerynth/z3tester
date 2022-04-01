@@ -1,0 +1,126 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "pytest >=3.6.0",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-timeout-1.4.2-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/LICENSE",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/METADATA",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/RECORD",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/WHEEL",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/entry_points.txt",
+    "Lib/site-packages/pytest_timeout-1.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/pytest_timeout.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/pytest_timeout.cpython-38.pyc"
+  ],
+  "fn": "pytest-timeout-1.4.2-py_0.conda",
+  "legacy_bz2_md5": "3ca726114874e431023af70b444a9752",
+  "legacy_bz2_size": 13477,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-timeout-1.4.2-py_0",
+    "type": 1
+  },
+  "md5": "59f327a7c5edb825179a98e707bf60b2",
+  "name": "pytest-timeout",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-timeout-1.4.2-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1e66470a1b2dbf6395b236bb2c14a4fbd563812101447558d317d2cd4281cece",
+        "sha256_in_prefix": "1e66470a1b2dbf6395b236bb2c14a4fbd563812101447558d317d2cd4281cece",
+        "size_in_bytes": 1085
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d758efffd13d87960efd28ac2ec7c984f60df963b5412f697200058c2781db62",
+        "sha256_in_prefix": "d758efffd13d87960efd28ac2ec7c984f60df963b5412f697200058c2781db62",
+        "size_in_bytes": 11723
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f9048909dfe8e7addab6ee4c0ce622339a3a00c77dfba397dcf541e9779f6695",
+        "sha256_in_prefix": "f9048909dfe8e7addab6ee4c0ce622339a3a00c77dfba397dcf541e9779f6695",
+        "size_in_bytes": 944
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0b2eb00ea766bd1a14674444cf78e03fa1c7ffef3cad255688548786130f24ad",
+        "sha256_in_prefix": "0b2eb00ea766bd1a14674444cf78e03fa1c7ffef3cad255688548786130f24ad",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "392689ba6aa614cb97c6e01019be07caa35d0f56ae513af67a7b06846a41db38",
+        "sha256_in_prefix": "392689ba6aa614cb97c6e01019be07caa35d0f56ae513af67a7b06846a41db38",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/pytest_timeout-1.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ea0d6a4cd670564534f3e1dae4146b30c8ffbb3944b60daf1556f3283c1c22bf",
+        "sha256_in_prefix": "ea0d6a4cd670564534f3e1dae4146b30c8ffbb3944b60daf1556f3283c1c22bf",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/pytest_timeout.py",
+        "path_type": "hardlink",
+        "sha256": "4a4145393ac0c997902652658760829daceb4fb780fdb6dbff4254a417fb3605",
+        "sha256_in_prefix": "4a4145393ac0c997902652658760829daceb4fb780fdb6dbff4254a417fb3605",
+        "size_in_bytes": 14752
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/pytest_timeout.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pytest-timeout==1.4.2",
+  "sha256": "7cae89d9777e03c5ae17a0516d77f994aaf5e201f9627fdb02e476211dea6c48",
+  "size": 13892,
+  "subdir": "noarch",
+  "timestamp": 1596992364614,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pytest-timeout-1.4.2-py_0.conda",
+  "version": "1.4.2"
+}

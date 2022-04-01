@@ -1,0 +1,6 @@
+tools:
+  - name: python
+    folder: .
+    exe: python.exe
+    args: [ "-u", "-s", "-E" ]
+

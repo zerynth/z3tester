@@ -1,0 +1,119 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "win_inet_pton"
+  ],
+  "extracted_package_dir": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pysocks-1.7.1-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/METADATA",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/RECORD",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+    "Lib/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/__pycache__/socks.cpython-38.pyc",
+    "Lib/site-packages/__pycache__/sockshandler.cpython-38.pyc",
+    "Lib/site-packages/socks.py",
+    "Lib/site-packages/sockshandler.py",
+    ".nonadmin"
+  ],
+  "fn": "pysocks-1.7.1-py38_0.conda",
+  "legacy_bz2_md5": "596d03c0469139c0b89ee2c1aa6fa0af",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pysocks-1.7.1-py38_0",
+    "type": 1
+  },
+  "md5": "9b0b1b854618468dbbb143b76a2c8335",
+  "name": "pysocks",
+  "package_tarball_full_path": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pysocks-1.7.1-py38_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "sha256_in_prefix": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9",
+        "size_in_bytes": 1401
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cdb40c8b38cf38e3f80e1122117db85d78cdad8b88c45f54194a4dd2e14307a6",
+        "sha256_in_prefix": "cdb40c8b38cf38e3f80e1122117db85d78cdad8b88c45f54194a4dd2e14307a6",
+        "size_in_bytes": 13235
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "eb05fcd711bb6aa92d43e561c6d306fd94e544692e1e220a798d3e3fced5edb8",
+        "sha256_in_prefix": "eb05fcd711bb6aa92d43e561c6d306fd94e544692e1e220a798d3e3fced5edb8",
+        "size_in_bytes": 699
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "sha256_in_prefix": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Lib/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "sha256_in_prefix": "4ca48e21f0850682bd118f050586d8a82dcf59ddfef86d79a61f67f3e4073c39",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/socks.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "34091ab2f68d99b4ef8e92bda235562c575dfae7b642b80992eeabb6973fa925",
+        "sha256_in_prefix": "34091ab2f68d99b4ef8e92bda235562c575dfae7b642b80992eeabb6973fa925",
+        "size_in_bytes": 21229
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/sockshandler.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3895bbfa74b296adfa27940b9f6aae10ff41fac0ea84c6129a099676d1411f8c",
+        "sha256_in_prefix": "3895bbfa74b296adfa27940b9f6aae10ff41fac0ea84c6129a099676d1411f8c",
+        "size_in_bytes": 4210
+      },
+      {
+        "_path": "Lib/site-packages/socks.py",
+        "path_type": "hardlink",
+        "sha256": "c4e627dbbb7d206adb4c1cd6b1452e3dad1806ea6582253293390e0795798856",
+        "sha256_in_prefix": "c4e627dbbb7d206adb4c1cd6b1452e3dad1806ea6582253293390e0795798856",
+        "size_in_bytes": 31086
+      },
+      {
+        "_path": "Lib/site-packages/sockshandler.py",
+        "path_type": "hardlink",
+        "sha256": "d926068fea70b7592380ba19026c9e6845c27990d64667d54bf406ea412b1ad6",
+        "sha256_in_prefix": "d926068fea70b7592380ba19026c9e6845c27990d64667d54bf406ea412b1ad6",
+        "size_in_bytes": 3966
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "af205fecbf68cc508d9fb430b884d0b6a283005daa90ebd132ccbeb1daf8531b",
+  "size": 29131,
+  "subdir": "win-64",
+  "timestamp": 1573200497818,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pysocks-1.7.1-py38_0.conda",
+  "version": "1.7.1"
+}

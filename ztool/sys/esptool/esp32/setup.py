@@ -1,9 +1,10 @@
 from __future__ import division, print_function
 
-from setuptools import setup
 import io
 import os
 import re
+
+from setuptools import setup
 
 
 # Example code to pull version from esptool.py with regex, taken from
@@ -103,11 +104,13 @@ setup(
     tests_require=[
         'flake8>=3.2.0',
         'flake8-future-import',
+        'flake8-import-order',
     ],
     install_requires=[
-        'pyserial>=2.5',
+        'pyserial>=3.0',
         'pyaes',
         'ecdsa',
+        'cryptography>=2.1.4',
     ],
     scripts=scripts,
     entry_points=entry_points,

@@ -3,8 +3,8 @@
 set /p myvar= < tmpFile 
 del tmpFile 
 echo %myvar%
-"ztool\sys\python\python.exe" -I "ztool/sys/esptool/esp32/esptool.py" --chip esp32 --port %myvar% --baud 460800 erase_region 0x350000 0x1000 
-"ztool\sys\python\python.exe" -I "ztool/sys/esptool/esp32/esptool.py" --chip esp32 --port %myvar% --baud 460800 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x1000 "ztool/dist/devices/db_zm1/test/exp-io/bootloader.bin" 0x10000 "ztool/dist/devices/db_zm1/test/exp-io/zerynth.bin" 0x9000 "ztool/dist/devices/db_zm1/test/exp-io/partition-table.bin" 0x310000 "ztool/dist/devices/db_zm1/test/exp-io/otalog.bin" 0x320000 "ztool/dist/devices/db_zm1/test/exp-io/firmware.bin"
+"ztool\sys\python_new\python.exe" -I "ztool/sys/esptool/esp32/esptool.py" --chip esp32 --port %myvar% --baud 460800 erase_region 0x350000 0x1000 
+"ztool\sys\python_new\python.exe" -I "ztool/sys/esptool/esp32/esptool.py" --chip esp32 --port %myvar% --baud 460800 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x1000 "ztool/dist/devices/db_zm1/test/exp-io/bootloader.bin" 0x10000 "ztool/dist/devices/db_zm1/test/exp-io/zerynth.bin" 0x9000 "ztool/dist/devices/db_zm1/test/exp-io/partition-table.bin" 0x310000 "ztool/dist/devices/db_zm1/test/exp-io/otalog.bin" 0x320000 "ztool/dist/devices/db_zm1/test/exp-io/firmware.bin"
 echo "-------------------------------------"
 echo "            TEST EXP-IO              "
 echo "-------------------------------------"

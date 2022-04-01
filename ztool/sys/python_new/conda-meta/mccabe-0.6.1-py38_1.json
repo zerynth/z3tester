@@ -1,0 +1,102 @@
+{
+  "build": "py38_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\giacomo\\miniconda33\\pkgs\\mccabe-0.6.1-py38_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/mccabe.cpython-38.pyc",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/entry_points.txt",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/mccabe.py",
+    ".nonadmin"
+  ],
+  "fn": "mccabe-0.6.1-py38_1.conda",
+  "legacy_bz2_md5": "59c504c64244fa901c53866b883dfd99",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\giacomo\\miniconda33\\pkgs\\mccabe-0.6.1-py38_1",
+    "type": 1
+  },
+  "md5": "ce80cb65e17540e3ab0e75df3208aad1",
+  "name": "mccabe",
+  "package_tarball_full_path": "C:\\Users\\giacomo\\miniconda33\\pkgs\\mccabe-0.6.1-py38_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/mccabe.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "70309f6db04b5a459b323bf6666e6e5a366f41966e324ee1243d9f36f98b42b7",
+        "sha256_in_prefix": "70309f6db04b5a459b323bf6666e6e5a366f41966e324ee1243d9f36f98b42b7",
+        "size_in_bytes": 11236
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "b85ceeb78fb6f6c51c9554bce8bb4434d94521ac034c2d039d7f2de2cb329acf",
+        "sha256_in_prefix": "b85ceeb78fb6f6c51c9554bce8bb4434d94521ac034c2d039d7f2de2cb329acf",
+        "size_in_bytes": 5771
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "70d96e663316f14036e3494adb221c4e7ba0ef7bad4a2c93b241fe02f64471f0",
+        "sha256_in_prefix": "70d96e663316f14036e3494adb221c4e7ba0ef7bad4a2c93b241fe02f64471f0",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861",
+        "sha256_in_prefix": "376347d7cd865d35324e6f2bf1732069d6fd0be0916b9754af593c382f75b861",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/mccabe-0.6.1-py3.8.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0",
+        "sha256_in_prefix": "db5717baa644fa5a5c7c0aaa00dbd7f448c8d440f5a7ccdc562bf4eb8bb744a0",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/mccabe.py",
+        "path_type": "hardlink",
+        "sha256": "5cf332c1d42c846ff99d28dc91bf8eccdaa7090b9742fcb71530a5b292b01900",
+        "sha256_in_prefix": "5cf332c1d42c846ff99d28dc91bf8eccdaa7090b9742fcb71530a5b292b01900",
+        "size_in_bytes": 10693
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "46615df7e06d0ac3fbcaeb96c98f1f76f2f324bb64626d70bf5ba5e42e93288d",
+  "size": 15354,
+  "subdir": "win-64",
+  "timestamp": 1573488899907,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mccabe-0.6.1-py38_1.conda",
+  "version": "0.6.1"
+}

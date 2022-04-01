@@ -1,0 +1,161 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "pytest >=2.7",
+    "python >=3.5",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-mock-3.3.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/LICENSE",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/METADATA",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/RECORD",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/REQUESTED",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/WHEEL",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/direct_url.json",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/entry_points.txt",
+    "Lib/site-packages/pytest_mock-3.3.1.dist-info/top_level.txt",
+    "Lib/site-packages/pytest_mock/__init__.py",
+    "Lib/site-packages/pytest_mock/_version.py",
+    "Lib/site-packages/pytest_mock/plugin.py",
+    "Lib/site-packages/pytest_mock/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/pytest_mock/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pytest_mock/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/pytest_mock/__pycache__/plugin.cpython-38.pyc"
+  ],
+  "fn": "pytest-mock-3.3.1-py_0.conda",
+  "legacy_bz2_md5": "fcb3c6eaaaad0331a0f4622b80c13a7d",
+  "legacy_bz2_size": 19363,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-mock-3.3.1-py_0",
+    "type": 1
+  },
+  "md5": "80a6846275a566c108ac6a59cb02c741",
+  "name": "pytest-mock",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\giacomo\\miniconda33\\pkgs\\pytest-mock-3.3.1-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b5cdf9221033a63366515bde3e85b52c1fb2db293c1d9857784c5563a54419c3",
+        "sha256_in_prefix": "b5cdf9221033a63366515bde3e85b52c1fb2db293c1d9857784c5563a54419c3",
+        "size_in_bytes": 1075
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bd0b23ce192b17d586dcda064573e06e38c675a7e107c4477b8b86d3ef1c1a08",
+        "sha256_in_prefix": "bd0b23ce192b17d586dcda064573e06e38c675a7e107c4477b8b86d3ef1c1a08",
+        "size_in_bytes": 13832
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ec8353a79dd12df5c662690ae6c59f5f4d37ce4df6074d2c9e7ce17524e71d9b",
+        "sha256_in_prefix": "ec8353a79dd12df5c662690ae6c59f5f4d37ce4df6074d2c9e7ce17524e71d9b",
+        "size_in_bytes": 1261
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "50da1e84772c929dd1df31690f8446d54d5a1e908c73a75fca2b907c62047543",
+        "sha256_in_prefix": "50da1e84772c929dd1df31690f8446d54d5a1e908c73a75fca2b907c62047543",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "f2d1ff1c2806677f88211abd0f5fa379c996429d547a60bd737d55bed15ffba7",
+        "sha256_in_prefix": "f2d1ff1c2806677f88211abd0f5fa379c996429d547a60bd737d55bed15ffba7",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "site-packages/pytest_mock-3.3.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "836e5f4160748d30a90063359f7b7ed1194bbca24833eb7bf96c216de61fd0e5",
+        "sha256_in_prefix": "836e5f4160748d30a90063359f7b7ed1194bbca24833eb7bf96c216de61fd0e5",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/pytest_mock/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0bf000c5c225d4d9d836e65a1449a3d6daf4faada6937bc5952c010963511d48",
+        "sha256_in_prefix": "0bf000c5c225d4d9d836e65a1449a3d6daf4faada6937bc5952c010963511d48",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "site-packages/pytest_mock/_version.py",
+        "path_type": "hardlink",
+        "sha256": "65dddd40f1587d4f1b1c0044ee339e2086aad252d6040a970569658546374726",
+        "sha256_in_prefix": "65dddd40f1587d4f1b1c0044ee339e2086aad252d6040a970569658546374726",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "site-packages/pytest_mock/plugin.py",
+        "path_type": "hardlink",
+        "sha256": "376bc59698f8d1335da293b3f54e613107641bc1303d362cb59753c54bd7059b",
+        "sha256_in_prefix": "376bc59698f8d1335da293b3f54e613107641bc1303d362cb59753c54bd7059b",
+        "size_in_bytes": 19359
+      },
+      {
+        "_path": "site-packages/pytest_mock/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pytest_mock/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pytest_mock/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pytest_mock/__pycache__/plugin.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pytest-mock==3.3.1",
+  "sha256": "cf3d50fbb63db0adadf9be688832351716ad32f5567735e510fbd74512f08bca",
+  "size": 20502,
+  "subdir": "noarch",
+  "timestamp": 1601659321544,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pytest-mock-3.3.1-py_0.conda",
+  "version": "3.3.1"
+}
