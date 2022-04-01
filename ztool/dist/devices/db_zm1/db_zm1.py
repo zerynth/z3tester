@@ -5,7 +5,7 @@ class DBZM1(Board):
 
     @staticmethod
     def match(dev):
-        return dev["vid"]=="10C4" and dev["pid"] in ("EA60")
+        return dev["vid"] in ("10C4","1A86") and dev["pid"] in ("EA60", "7523")
     
 
     def reset(self):
