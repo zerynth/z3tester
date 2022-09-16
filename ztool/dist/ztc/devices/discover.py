@@ -299,7 +299,7 @@ class Discover():
         h = hashlib.sha1()
         k = dev["vid"]+":"+dev["pid"]+":"+dev["sid"]
         h.update(bytes(k,"ascii"))
-        return h.hexdigest()
+        return "rrr"# h.hexdigest()
 
     def make_fingerprint(self,dev):
         return (dev.get("port") or "")+":"+(dev.get("disk") or "")
