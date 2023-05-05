@@ -19,7 +19,7 @@ echo "  --> Attach the TEST-BED board on the right of the DB-ZM1 DUT (Device Und
 echo "  --> Attach the EXP-SER Device Under Test (DUT) on the right of the DB-ZM1 in the vertical Z-BUS connector of the TEST-BED"
 echo "  --> Connect only the bottom screw terminal (CAN and RS485) from 'TEST EXP-SER' to DUT"
 echo "  --> DO NOT CONNECT THE TOP SCREW TERMINAL (RS232) UNTIL THE TEST ASKS FOR IT"
-echo " --> Attach the 12Vdc (P1 on 4ZeroBox V10, P1 on DB-ZM1, P1-3/4 on TEST-BED) power supply to the 4ZeroBox V10, DB-ZM1+EXP-SER and TEST-BED board"
+echo " --> Attach the 12Vdc (P1 on DB-ZM1s, P1-3/4 on TEST-BED) power supply to the 4ZeroBox V10, DB-ZM1+EXP-SER and TEST-BED board"
 echo "  --> Use USB-C cable to program the board and check messages"
 echo "----------------------------------------------------------------------------------"
 echo "######################################################"
